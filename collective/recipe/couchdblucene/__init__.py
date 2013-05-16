@@ -2,7 +2,6 @@
 
 import os
 import subprocess
-import zipfile
 
 class Recipe(object):
     """zc.buildout recipe"""
